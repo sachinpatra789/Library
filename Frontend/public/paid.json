@@ -1,0 +1,140 @@
+[
+  {
+    "id": 9,
+    "name": "History book",
+    "title": " Natus nihil cumque architecto repellat cum adipisci in amet porro",
+    "price":50,
+    "category":"paid",
+    "image":"https://marketplace.canva.com/EAFKdcKfu00/1/0/501w/canva-brown-modern-history-book-cover-JyWTQAWHsNk.jpg"
+    
+  },
+
+  {
+    "id": 10,
+    "name": "Anthology book",
+    "title": " Natus nihil cumque architecto repellat cum adipisci in amet porro",
+    "price":90,
+    "category":"paid",
+    "image":"https://images.thenile.io/r1000/9780393603071.jpg"
+    
+  },
+  
+  {
+    "id": 11,
+    "name": "DBMS book",
+    "title": " Natus nihil cumque architecto repellat cum adipisci in amet porro",
+    "price":150,
+    "category":"paid",
+    "image":"https://th.bing.com/th/id/R.30c1824fda11600046b7e8be509252a6?rik=BNpcX71BGsVnJw&riu=http%3a%2f%2fcdn.shopify.com%2fs%2ffiles%2f1%2f0514%2f0014%2f7144%2fproducts%2f9789355510266_1024x.jpg%3fv%3d1652353978&ehk=RhAJ4Pjzfy9gJO3IRmB8yUSYo2PdESE%2b0w1bDOUvTtY%3d&risl=&pid=ImgRaw&r=0"
+  },
+  
+  {
+    "id": 12,
+    "name": "Robotic process automation ",
+    "title": " Natus nihil cumque architecto repellat cum adipisci in amet porro",
+    "price":200,
+    "category":"paid",
+    "image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1707591096i/208158146.jpg"
+  },
+  {
+    "id": 13,
+    "name": "CS Fundamentals",
+    "title": " Natus nihil cumque architecto repellat cum adipisci in amet porro",
+    "price":140,
+    "category":"paid",
+    "image":"https://www.tppl.org.in/2020/1408-large_default/computer-fundamentals.jpg"
+  },
+  
+  {
+    "id": 14,
+    "name": "Business Management ",
+    "title": " Natus nihil cumque architecto repellat cum adipisci in amet porro",
+    "price":120,
+    "category":"paid",
+    "image":"https://cdn.shopify.com/s/files/1/1279/5591/products/business_large.jpg?v=1579516874"
+  },
+  
+  {
+    "id": 15,
+    "name": "Accounting management",
+    "title": " Natus nihil cumque architecto repellat cum adipisci in amet porro",
+    "price":220,
+    "category":"paid",
+    "image":"https://baazimagess3.s3-ap-southeast-1.amazonaws.com/product_media/9789352606788/md_9789352606788.jpg"
+  },
+  {
+    "id": 16,
+    "name": "law book",
+    "title": " Natus nihil cumque architecto repellat cum adipisci in amet porro",
+    "price":250,
+    "category":"paid",
+    "image":"https://lawbookreads.ebcwebstore.com/wp-content/uploads/2023/05/1A3A04231x1-scaled.jpg"
+  },
+  
+  {
+    "id": 17,
+    "name": "Data Science",
+    "title": " Natus nihil cumque architecto repellat cum adipisci in amet porro",
+    "price":300,
+    "category":"paid",
+    "image":"https://th.bing.com/th/id/OIP.RNeLzIO9Wgq4vlEPPwxhBQAAAA?cb=iwc2&rs=1&pid=ImgDetMain"
+  },
+  
+  {
+    "id": 18,
+    "name": "Machine Learning",
+    "title": " Natus nihil cumque architecto repellat cum adipisci in amet porro",
+    "price":350,
+    "category":"paid",
+    "image":"https://1.bp.blogspot.com/-idcciX9qbUI/X94BOWyBSTI/AAAAAAAAJcY/jKtkS2AjXTALeML0UE6iy8ZLKMbaJEh8ACLcBGAsYHQ/s1360/61z%252B9WJfXtL._AC_SL1500_.jpg"
+  }
+  ,
+  
+  {
+    "id": 19,
+    "name": "cyber security",
+    "title": " Natus nihil cumque architecto repellat cum adipisci in amet porro",
+    "price":400,
+    "category":"paid",
+    "image":"https://th.bing.com/th/id/OIP.DZ6jW8xbGG_Sfdc7Ci716AHaL4?cb=iwc2&rs=1&pid=ImgDetMain"
+  }
+  ,
+  
+  {
+    "id": 20,
+    "name": "Cloud Computing",
+    "title": " Natus nihil cumque architecto repellat cum adipisci in amet porro",
+    "price":450,
+    "category":"paid",
+    "image":"https://m.media-amazon.com/images/I/81gLBsl6CiL.jpg"
+  }
+  ,
+  
+  {
+    "id": 21,
+    "name": "Medicine book",
+    "title": " Natus nihil cumque architecto repellat cum adipisci in amet porro",
+    "price":500,
+    "category":"paid",
+    "image":" https://www.aibh.in/backend/images/products/cover-9788131255018.jpg"
+  },
+  
+  {
+    "id": 22,
+    "name": "Operatin System",
+    "title": " Natus nihil cumque architecto repellat cum adipisci in amet porro",
+    "price":550,
+    "category":"paid",
+    "image":"https://www.informit.com/ShowCover.aspx?isbn=0133805913"
+  }
+  ,
+  
+  {
+    "id": 23,
+    "name": "Mechanical book",
+    "title": " Natus nihil cumque architecto repellat cum adipisci in amet porro",
+    "price":600,
+    "category":"paid",
+    "image":"https://m.media-amazon.com/images/I/812J6CX2Y0L._SL1375_.jpg"
+  }
+]

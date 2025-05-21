@@ -1,7 +1,11 @@
 import React from 'react'
+import Cards from './Cards'
+import { Link } from 'react-router-dom'
+import paid from '../../public/paid.json'
 
 function Course() {
   return (
+
     <div className=" max-w-screen-2xl container mx-auto md:px-20 px-4">
         <div className="mt-28 items-center justify-center text-center">
           <h1 className="text-2xl  md:text-4xl">
@@ -17,12 +21,20 @@ function Course() {
             animi eos aut. Nobis quisquam reiciendis sunt quis sed magnam
             consequatur!
           </p>
-          <button className="bg-blue-500 text-white px-4 py-2 mt-8 rounded-md">Back</button>
+              <Link to="/">
+                <button className="bg-blue-500 text-white px-4 py-2 mt-8 rounded-md">Back</button>
+              </Link>
+        </div>
+        <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mt-10'>
+          {
+            paid.map((item) => (
+              <Cards item={item} key={item.id} />
+            ))
           
+        }
         </div>
     </div>
-    
   )
 }
 
-export default Course
+export default Course;

@@ -76,25 +76,7 @@
     "category":"Free",
     "image":"https://th.bing.com/th/id/OIP.8svmavak0JbpEP0hNM6gXAHaL0?rs=1&pid=ImgDetMain"
     
-  },
-
-  {
-    "id": 9,
-    "name": "History book",
-    "title": " Natus nihil cumque architecto repellat cum adipisci in amet porro",
-    "price":50,
-    "category":"As per your choice",
-    "image":"https://marketplace.canva.com/EAFKdcKfu00/1/0/501w/canva-brown-modern-history-book-cover-JyWTQAWHsNk.jpg"
-    
-  },
-
-  {
-    "id": 10,
-    "name": "Anthology book",
-    "title": " Natus nihil cumque architecto repellat cum adipisci in amet porro",
-    "price":90,
-    "category":"As per your choice",
-    "image":"https://images.thenile.io/r1000/9780393603071.jpg"
-    
   }
+
+ 
 ]
