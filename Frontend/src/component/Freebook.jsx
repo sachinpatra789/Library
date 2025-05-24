@@ -18,7 +18,7 @@ export default function Freebook() {
       });
   }, []);
 
-  const settings = {
+  const settings = { 
     dots: true,
     infinite: false,
     speed: 500,
