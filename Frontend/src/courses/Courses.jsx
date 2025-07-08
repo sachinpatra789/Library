@@ -1,5 +1,5 @@
 import React from 'react'
-import Navar from '../component/navar'
+import Navar from '../component/Navar'
 import Footer from '../component/Footer'
 import Course from '../component/Course'
 

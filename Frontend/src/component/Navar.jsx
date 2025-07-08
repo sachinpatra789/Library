@@ -42,7 +42,7 @@ export default function Navar() {
       <a href='/contact'>Contact</a>
     </li>
     <li>
-      <a>About</a>
+      <a href='/aboutus'>About</a>
     </li>
     </>
     );

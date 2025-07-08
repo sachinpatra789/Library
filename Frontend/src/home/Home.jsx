@@ -1,5 +1,5 @@
 import React from 'react'
-import Navar from '../component/navar'
+import Navar from '../component/Navar'
 import Banner from '../component/Banner'
 import Footer from '../component/Footer'
 import Freebook from '../component/Freebook'
